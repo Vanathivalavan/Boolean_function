@@ -37,7 +37,7 @@ Procedure
 5.For different input combinations generate the timing diagram.
 
 Program:
-
+```
 module Boolean_function(
 
     input  wire A,
@@ -57,7 +57,7 @@ assign F = (~A & B) | (C & D) | (A & ~D);
 
 endmodule
 
-
+```
 
 Developed by: VANATHI T
 
