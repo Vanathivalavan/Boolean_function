@@ -62,7 +62,7 @@ endmodule
 Developed by: VANATHI T
 
 
-RegisterNumber: 25013590 */
+RegisterNumber: 25013590 
 
 
 RTL realization
